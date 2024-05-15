@@ -1,6 +1,6 @@
-import Accordion from '../components/Accordion'
+import Accordion from '../components/Accordian'
 
-function AccordionPage() {
+function AccordianPage() {
     const items = [
         {
             id: 1,
@@ -26,4 +26,4 @@ function AccordionPage() {
     )
 }
 
-export default AccordionPage;
+export default AccordianPage;
